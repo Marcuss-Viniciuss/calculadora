@@ -1,5 +1,4 @@
 const resultado = document.querySelector('#res');
-const confimar = document.querySelector('.aa');
 
 function insert(num) {
     resultado.innerHTML += num;
